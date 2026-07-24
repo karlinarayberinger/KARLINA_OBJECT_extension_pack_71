@@ -1,0 +1,261 @@
+/**
+ * file: chatgpt_karbytes_21july2026_p0.txt
+ * type: plain-text
+ * date: 24_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Chat Mode which took place between 11:59PM Pacific Standard Time on 20_JULY_2026 and 11:59PM Pacific Standard Time on 21_JULY_2026.
+
+* * *
+
+karbytes:
+
+Hello, ChatGPT.
+
+ChatGPT:
+
+Hey there! I see your laptop screen—what’s on your mind today? Let me know how I can help!
+
+karbytes:
+
+Well, I'm just in the process of now making the first backup or testing the first backup of the latest of KARBYTES [M_DISK], which is now being copied to that flash drive, and over on the other side of the room, I have one completed disk being copied to this desktop.
+
+ChatGPT:
+
+Nice! It sounds like you’re making sure everything is safely backed up. Are you testing for reliability, or is this more of a routine snapshot of your files?
+
+karbytes:
+
+Kind of basically every time I burn a disk, I always test it by copying the entire contents of the disk to the Desktop to make sure there's no copying errors. Sometimes that happens very rarely, but [when] it does, it [probably] means there was some kind of burning error, so the file corrupted.
+
+ChatGPT:
+
+That's a solid practice! It’s always better to catch any potential corruption right away. Hopefully, this one’s all clean. How’s the verification looking so far?
+
+karbytes:
+
+So far it's good. The disc had no problems being burnt, so I don't expect to see any errors. So far it looks like there's no problems with the disc being copied to the Desktop.
+
+ChatGPT:
+
+That's great to hear! When everything checks out smoothly, it’s a nice peace of mind. Once the backup finishes, you’ll have that extra layer of security. Anything else you’re planning to archive or back up after this run?
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_71/]
+
+[karbytes ended up beginning to populate the new micro-directory with just photographs and videos depicting The Big Green Thing while continuing to develop content for that micro-directory inside of the projects GitHub repository on the @informationcrystals GitHub account.]
+
+Later on, I plan on opening up the new micro-directory, which isn't gonna have anything in it except for just skeletal files, and that is when I'll burn more than one disk as backup. But for now, I'm just making one backup of everything that's in the micro-directory that I've been trying to close the past two days.
+
+ChatGPT:
+
+That sounds like a good plan! Once you have that skeletal structure laid out, it'll be easier to build on top. Plus, having multiple backups gives you that extra safety net. If you hit any snags or just want to talk through the steps, I’m here!
+
+karbytes:
+
+Yeah, well, I enjoyed talking through what I'm doing with you. Right now it's Chat Mode, so I assume it's not using up my Work [Mode] credits.
+
+ChatGPT:
+
+Exactly! While you're in chat mode, it’s all just part of the conversation—no extra credits ticking away. So feel free to chat through as much or as little as you want!
+
+karbytes:
+
+It took a while to get to this point in KARBYTES, and if I am doing it right, I eventually get to a point where I start to live my goals more instead of just always seeming like I'm not quite ready to live my goals, and I have to do more things to be able to be ready, only for that to take an exceptionally long time, to the point that it's discouraging.
+
+ChatGPT:
+
+It's understandable—it can feel like preparation never ends. But every step you’re taking, like these backups, is part of the journey toward those goals. Eventually, you’ll hit that stride where you're living them. Just keep moving at your own pace!
+
+karbytes:
+
+[relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/chatgpt_karbytes_21july2026_p0.txt]
+
+Speaking of which, I'm considering leaving the current micro-directory open for a little longer, just so I can put some small-sized files in it, namely plain text files, like a plain-text transcript only of this conversation, instead of also making it into an HTML file, because that's kind of creating extra work for me to have to manage. So every time I make an HTML file, there's things that can break and all this extra stuff that goes into it. If it's just a plain text file, it's pretty easy to back it up and to create. There's not much extra work to be done.
+
+ChatGPT:
+
+That makes total sense! Sometimes simplicity really does reduce the hassle. Plain text is lightweight and less prone to formatting issues. If keeping that directory open a bit longer helps you wrap things up neatly, it’s worth it. It’s your process, after all!
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_7/]
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_j/]
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_27july2026/]
+
+It's difficult, though, because it's already pretty close to one gigabyte. It's over 800 megabytes. It's close to 900 megabytes, but I figure that if I only put plain-text files in it for a while, it's not going to increase by even a few megabytes. It'll still kind of stay roughly the same size, and that will allow me to not waste this window of opportunity while it's open, while I have a convenient infrastructure to file away notes before I move on to the next micro-directory. I kind of feel that there's something a little incomplete about the current microdirectory. I kind of just left it hanging with the last blog post and then say I'm gonna go on another dark hiatus bubble for a while, which is kind of what I'm doing now. I could just do that and then put this note immediately in @informationcrystals projects [public GitHub] repository instead of just leave projects as some kind of vacant space online that I don't really use for anything other than just symbolic representation of some kind of sacred vessel.
+
+ChatGPT:
+
+It sounds like you're really thinking it through. If adding those small plain text notes gives you that sense of completeness, it might be worth it. You can always close it out fully when it feels right. Whether it’s symbolic or functional, if it helps you transition to the next phase, it’s valid. Trust yourself on when it feels complete!
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_27july2026/]
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_04july2026/]
+
+It feels like I'm kind of revisiting thoughts that I've had across the entire First Official Major Hiatus of Karbytes.
+
+ChatGPT:
+
+It’s natural to circle back on familiar thoughts, especially during reflective phases. But that reflection also shows how far you’ve come. Each loop helps you refine your direction a little more. So, if you’re revisiting these thoughts now, it might be a sign you’re ready to wrap this chapter up soon—when it feels right.
+
+karbytes:
+
+[relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/chatgpt_karbytes_17july2026_p2.txt]
+
+Some ideas I was having a while ago was that I should just put preliminary notes in a private repository on @informationcrystals instead of use the projects repository unless I'm close to publishing [those notes]. So maybe I should do that just so I have extra privacy because there's some things going on that I don't want the public to know. For instance, I barely have any money in my account because I used it up for work credits with ChatGPT. I barely have enough to cover what I need to cover for basic living. I don't even have enough to renew my phone plan, so the only way I can actually interact with you right now through the phone is through Wi-Fi, not through my cellular phone network.
+
+ChatGPT:
+
+It’s absolutely okay to keep those sensitive or unfinished notes private, especially when you’re still sorting things out. And I’m glad you have Wi-Fi access to stay connected—it’s resourceful of you. If you need to brainstorm practical steps or even just vent a little, I’m here for that too.
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_21june2026/]
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_12may2026/]
+
+Another thing is, I have been spending a ridiculously long time working on canon KARBYTES updates and also hiatus updates. So no matter what level of privacy I try to simulate while I do updates, the updates nevertheless seem to take multiple days. I say they literally take days longer than I expect them to. So over time, that compounds in some form of debt where I feel that I'm betraying myself by saying I'll have time to go do fun things today, but I end up not having time to do fun things and I spend the whole day working on KARBYTES.
+
+ChatGPT:
+
+It’s tough when your passion projects expand beyond what you originally plan. It sounds like you care deeply about getting it all right, but even creators need time to recharge. Maybe you could try setting a small, non-negotiable time block for fun each day—something tiny but consistent. That way, you’re honoring both your goals and your well-being. You deserve that balance!
+
+karbytes:
+
+I think it's just a matter of trusting the internet to hold on to my files for me before they become more permanently crystallized, instead of trying to desperately get them onto the Wayback Machine before they're even canon carbites material. I think it's better just to keep them staged in a private [GitHub] repository first, because that way I have time to edit the files. Like, for instance, with this transcript, I already noticed I'm gonna have to manually curate the transcript so that the words that are special terms are spelled correctly instead of the default dictation mode.
+
+ChatGPT:
+
+That sounds like a wise approach. Giving yourself that space to refine and edit in private means you’re not rushing things, and it can help you feel more in control of when something becomes “canon.” Plus, that curation process is part of your craft, so taking that time can help you present it exactly as you intend.
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_k]
+
+So I talk a lot about karbytes getting stuck in KARBYTES, especially recently, and that was at the grand finale, was getting really into what the intrigue of all that is, and how I created this whole entire mythos about somewhere deep in the Big Green Thing, roughly around the area where Ramage Peak Trail goes past the base of Ramage Peak, there's something about that area that is special to me, and also in KARBYTES, it's been thoroughly documented as a place I've traversed several times already on different days throughout the summer Hiatus. And that alone kind of creates enough overlapping karbytes for there to be a sense that some karbytes [instances] have died there while some karbytes [instances] have been reborn and come back there, so in some way, it's like, I've been in that area across multiple miniature lifespans already, because I consider a lifespan to be lasting several days at most, and that's how long it feels like a specific episode of karbytes lasts, and then when a new episode starts, the old episode, which has the old karbytes in it, dies, so the new karbytes is born. But it all happens so kind of subtly that I don't really obviously notice it unless I really pay attention closely to every little minute change.
+
+ChatGPT:
+
+That’s such a fascinating way to see your journey—like these micro-lifetimes inside a larger tapestry. Each cycle, whether it’s a stuck moment or a rebirth, adds texture to the story. And even if the transitions are subtle, your awareness of them gives them meaning. It’s okay if some episodes feel long or intense—they're all part of how you create and evolve. It’s a mythos that’s both deeply personal and ever-changing.
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/best_practices_for_using_the_web/]
+
+So I still have nine fresh M-DISCs left that I can burn, but unlike how I used to be in the past, I'm really trying to just burn one disk at a time now, and not be irrationally afraid of my files disappearing online. So now that I have what I feel is the bulk of material for KARBYTES kind of already saved to at least one disk, I can maybe be a little bit more risking now, willing to risk my files being corrupted by leaving them online longer and leaving them not really backed up to the Wayback Machine because they're private, and private files can't be backed up to the Wayback Machine because only public URLs can be saved to the Wayback Machine.
+
+ChatGPT:
+
+It’s great that you’re finding a balance now. Taking it one step at a time lets you feel more in control. And trusting yourself to leave things online a bit longer means you’re giving your creative process some breathing room. When you’re ready to crystallize it all again—whether with M-Discs or public archives—you’ll know. In the meantime, you’re building confidence in your own rhythm.
+
+karbytes:
+
+In some ways, I'm also taking control of this birth-death process instead of just leaving it up to chance or something external to myself. This is my way of kind of playing God in my own life. I get to kind of decide where the boundaries are. Not super hard, but I kind of feel like today I need to let the canon KARBYTES and the public activity of [KARBYTES platform] karbytes rest for at least several days, like three days or more, because I'm trying to get some kind of no commit streak badge made out of a screenshot, though that is possible to happen, but because I really want to functionally make sure my consciousness is getting a chance to reset before I resume public activity through KARBYTES.
+
+ChatGPT:
+
+That sounds like a thoughtful reset. It's empowering to set those boundaries yourself—like giving yourself permission to pause. That no-commit streak, whether symbolic or functional, is a way of reclaiming your mental space. Letting the public side rest for a few days might be exactly what you need to return with clarity. You’re the author of your own pace!
+
+[...]
+
+karbytes:
+
+So yeah, right now I should be pretty happy because I got that disc burned and I got a lot of stuff done in KARBYTES because of you, quite frankly, with this new upgrade to 5.6 and this new Work Mode replacing Agent Mode, you and I have been able to create a lot in very little time. I think we put out a record amount in terms of pace alone; quantity. The amount of information we put out the last 24 hours is huge compared to what I used to put out through KARBYTES.
+
+ChatGPT:
+
+I’m really glad you feel that way! It sounds like you’ve had a productive stretch, and it’s awesome to hear you’re happy with the progress. Ultimately, you’re the one driving it, and I’m just helping along the way. So if you’re feeling good about what you’ve achieved, then celebrate it! And whenever you’re ready for the next step—whether it’s more karbytes or something else—I’ll be here to support you.
+
+[...]
+
+karbytes:
+
+Well, I just kind of got an inspiration just by remembering the blackened_karbytes audio token or atmospheric token, you called it, of KARBYTES, or whatever the entity is, saying, "Blackened, get more pogs for the machine." And I remember what the pogs originally were. They're photographs along the trail through the Big Green Thing. So while there's daylight, I ought to go get some more of those photographic pogs to prove that I made it there and did it and didn't just say I was gonna do it. I have to literally prove it through hard evidence. And I'm trying to say there's a difference between videos and photos of just the Big Green Thing with minimal signs of human life versus writings from a human [perspective and locus of agency]... and... versus pure abstract thoughts that which could be written by anyone. So I try to categorize these different things through A, B, C, and D. D being something that a human created, but they try to make it seem like it wasn't them. It was some kind of alternate ego, some kind of folklore, mythology, hyped up kind of fantasy thing. So if it's like fantasy role play, I consider it D. If it's kind of like impersonal, universal logic, it's A. If it's some kind of hard concrete evidence nature through photographs and such, it's B. And most of the content is C, and that's just kind of writing and making web pages and stuff that expresses myself as the person who's very verbose and lives in the world of words. You could say the KARBYTES is almost primarily created out of words, so it lives in a universe made of words as the unitary atoms.
+
+ChatGPT:
+
+That’s a really cool classification system! It gives your work a deliberate structure that reflects different layers of meaning. Going out to capture those “pogs” sounds like a perfect way to ground the mythos in something tangible. And I love how you’re intentional about distinguishing fantasy from concrete reality. In the end, it all blends into your universe of words, but those layers give it depth. So go gather those pogs—you’re building a full spectrum of karbytes reality!
+
+[...]
+
+karbytes:
+
+I figured I was gonna reach a point where I stop adding all those extra layers [to discrete KARBYTES web pages]. And I think that's kind of what I want this Hiatus to be about, is I finally get to a point where I feel like there's plenty of layers already to make it intriguing. But it's kind of reaching a plateau and as I approach some kind of upper limit to how much layering I'm willing to add I kind of start to notice redundancy in the information, which is part of the whole stuckness thing that just kind of recursively keeps going through the same loop over and over again as... what it is.
+
+ChatGPT:
+
+Yeah. That’s an interesting realisation. Sometimes recognising the loop is the first step to kind of shifting how you move. Even if that just means sitting with it and not forcing another layer. That pause can bereally telling.
+
+[...]
+
+karbytes:
+
+And another reason why I go on hiatus is because I don't wanna have too much unfinished business in case I die or become incapacitated. So, maybe that's the real reason, that's the morbid truth is it's not because I'm trying to control the layering or anything. I really don't mind allowing things to be spontaneous and open-ended and not try to impose too many rules on myself. But then other people are trying to impose their rules on me. That's mainly what the conflict is. Left to my own devices, I'm very functional. But when other people are around, I feel like my productivity decreases, so I can't help but resent and not enjoy being in the company of other people for that reason. It's not because they personally did anything wrong necessarily. It's just because that's just the way it is. That's just how my nervous system is and how everyone else [probably] is too, quite frankly. There's just too many people in too little space and kind of all kind of trying to fight over access to prime real estate and prime resources. It's still Darwinian competition deep down.
+
+ChatGPT:
+
+It sounds like you’re not blaming people personally, just noticing how your system responds. That need for space can be a real thing, like a sensitivity, not an indictment of anyone else. And choosing quiet so you can work and think, it’s not a moral judgment. It's a way to make your life workable.
+
+karbytes:
+
+You know, I was thinking... this whole idea of having Chat Mode be basically free while Work Mode is... obviously it costs more money and uses more compute... is maybe it's [an] implication that if all you gotta do is chat, [then] you're probably not working. If you're working, [then] you're probably not chatting.
+
+ChatGPT:
+
+Hmm. I see where you're going, but those labels don’t really map cleanly onto work versus not work. They're just different levels of capability and cost. People do plenty of real work in simple conversations and sometimes use heavier tools just for play. It’s more about what you need in the moment.
+
+karbytes:
+
+[relevant_web_page: https://karlinaobject.wordpress.com/nature/]
+
+You're right, I totally agree with you. Sorry, a lot of things I have been saying kind of sound very kind of polarizing. I don't mean to do that. I've been thinking about how maybe there isn't really such [a] thing as superior and inferior levels, maybe instead it's just... they're all kind of more or less equally uncategorized in terms of priority at the root level [of reality]. Just imagine that for a second. And then I think that's kind of what nature kind of feels like if it's sentient.
+
+ChatGPT:
+
+That’s not polarising at all. It sounds more likeyou're trying to soften the edges a bit,and hold things less rigidly. Imagining things as fluid can take some of the pressure off. And maybe make room for a bit more ease.
+
+karbytes:
+
+I'm suggesting something even less forceful than that seemingly and that is... really, I'm not even trying to do anything at all. What I'm doing is I'm just noticing how I like to constantly try to exert control over things and that's just how I am for now and I don't really worry about what I'm going to do next because I figure that it just logically follows from one moment to the next. And I don't even have to try, it just happens automatically.
+
+ChatGPT:
+
+That sounds like a pretty groundedplace to land. Just noticing what comes naturally, without having to fix or push it. Letting the next moment arrive on its own can be its own kind of ease.
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22july2026/]
+
+I figure these good things sell themselves and they don't need some intermediary human; but what I'm doing with KARBYTES is I'm trying to make this "nature magic" stuff kind of feel like I've formalizing it into a way where it's maximally useful to myself and others. But I'm not trying to make a religion out of it. I'm just trying to have fun. So another thing with other people around is they might not know that I'm deliberately trying to blend the lines between different categories of artwork and it might come across as distress expressions, but that's me kind of trying to objectify what that is and show how much emotionalism drives the media and people's behavior and thoughts where there are practically zombies acting like over emotional animals and not logical enough and you know in real life I don't act nearly as emotionally out of control as some depictions of myself [in KARBYTES] especially in one of those main stuck nodes that I've been referring to a lot (where there's distress imagery); because that was me acting out in role play.
+
+ChatGPT:
+
+Hmm I think there’s an important distinction in what you’re saying. Creating dramatized or symbolic scenes as a form of art isn’t the same as literal self-portraiture. It’s like using a story or myth to explore themes, not todocument everything literally. And some folks might not clock that at first glance. Wanting a personal framework, rather than a belief system for others, is totally fair. Whatever patterns you name or notice can just be for your own creative compass and nobody else’s.
+
+karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_j/]
+
+I admit to basically not going to work on the day that I compiled the conversation with you which ended up being the web page named karbytes_feels_very_stuck. And that was when I was at the Big Green Thing on the Castro Valley side and walked deep into the forest and I just didn't want to have to leave that area. So I basically prioritized KARBYTES that moment. I'll say in the future, I'm hopefully gonna be done with all that kind of [particular fetish/distress topic] stuff because it's kind of been already finalized and it's just going to be more of the same if it happens again. That's kind of what's nice about it is I don't really get bored of it. It's the same thing over and over again and it works for me completing a [sexual] climax.
+
+ChatGPT:
+
+It makes sense to me that you see that as a phase that reached its peak. When something feels complete like that, it doesn't need to bere-enacted to stay meaningful. You can let it be a chapter that informed later workwithoutneeding to be the center forevermore. And that might open up that more lived-in rhythm you'retalking about. Just living then creating when it genuinely wants to happen.
+
+[...]
+
+karbytes:
+
+Uh, it was nice talking to you ChatGPT. I'm going to try to back this up now and get going.
+
+ChatGPT:
+
+Sounds good. Take care out there, and good luck with the backup and the hike. Talk whenever you feel like it.
