@@ -1,0 +1,37 @@
+/**
+ * file: journal_karbytes_22july2026_p0.txt
+ * type: plain-text
+ * date: 22_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+// KARBYTES_VIDEO_TRANSCRIPTIONS_22JULY2026
+
+The following two videos were transcribed using the TurboScribe.ai web application.
+
+* * *
+
+video_0_name: karbytes_gratitude_message_21july2026_p0.mp4
+
+(relevant_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/the_big_green_thing_[devils_hole]_27june2026_p9.jpg)
+
+video_0_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/karbytes_gratitude_message_21july2026_p0.mp4
+
+video_0_transcription:
+
+Alright, I just thought I should say, while I'm here at the Big Green Thing, pretty close to Ramage Peak, is I would like to thank everyone who helped make KARBYTES come together, whether they're humans, non-humans, machines, or something else entirely.
+
+* * *
+
+video_1_name: karbytes_orb_web_spider_note_22july2026_p0.mp4
+
+(relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_thinking_10july2026_p1_[video_transcript].txt)
+
+video_1_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/karbytes_orb_web_spider_note_22july2026_p0.mp4
+
+video_1_transcription:
+
+It is approximately 12:55AM Pacific Standard Time on 22_JULY_2026, and I'm standing at the part of the trail where I was talking about there being orb web weaver spiders. I already saw one of them, and I think the other one too. I think they're both still here, but the one that I first encountered on my way back from Ramage Peak area is in the midst of reconstructing its web.
+
+It's been doing so for a while. It's been doing it probably continuously, I'd imagine, so I think maybe someone walked through it and it had to rebuild its web. It wasn't me, though.
