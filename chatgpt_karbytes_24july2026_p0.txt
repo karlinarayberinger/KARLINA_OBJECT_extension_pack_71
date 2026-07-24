@@ -1,0 +1,80 @@
+/**
+ * file: chatgpt_karbytes_24july2026_p0.txt
+ * type: plain-text
+ * date: 24_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 23_JULY_2026 and 11:59PM Pacific Standard Time on 24_JULY_2026.
+
+* * *
+
+karbytes:
+
+In the following web page, determine whether or not each hyperlink which appears on that page points to the correct file: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_l/
+
+ChatGPT:
+
+[Worked for 6m 43s]
+
+No—not every hyperlink on [chatgpt_karbytes_01august2026_l](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_l/) currently works correctly.
+
+I checked all 84 hyperlink occurrences:
+
+* 65 occurrences, representing 56 unique destinations, work correctly.
+* 19 occurrences, representing 11 unique destinations, return `404 Not Found`.
+* I found no hyperlink that resolves to the wrong existing file. The problems are missing targets.
+
+### Broken destinations
+
+[preformatted_text]
+
+| Destination                                                    | Occurrences |
+| -------------------------------------------------------------- | ----------: |
+| `chatgpt_karbytes_23july2026_p0.txt`                           |           2 |
+| `chatgpt_karbytes_22july2026_p0.txt`                           |           2 |
+| `chatgpt_karbytes_22july2026_p1.txt`                           |           4 |
+| `chatgpt_karbytes_22july2026_p2.txt`                           |           1 |
+| `chatgpt_karbytes_22july2026_p4.txt`                           |           2 |
+| `the_big_green_thing_20july2026_p17.mp4`                       |           1 |
+| `the_big_green_thing_20july2026_p18.mp4`                       |           1 |
+| `the_big_green_thing_20july2026_p19.mp4`                       |           1 |
+| `the_big_green_thing_20july2026_p20.mp4`                       |           1 |
+| `raw_github_files_directory_karlina_object_extension_pack_71/` |           1 |
+| `chatgpt_karbytes_01august2026_k/`                             |           3 |
+
+[end preformatted_text]
+
+The nine missing GitHub files are not present in the [KARLINA_OBJECT_extension_pack_71 repository](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71), and the repository’s public commit history does not indicate that files with those exact paths previously existed.
+
+### Confirmed working file groups
+
+These all resolve to files matching their stated formats:
+
+* `the_big_green_thing_20july2026_p0.jpg` through `p9.jpg`
+* `the_big_green_thing_20july2026_p12.jpg` and `p13.jpg`
+* `the_big_green_thing_20july2026_p10.mp4`, `p11.mp4`, and `p14.mp4` through `p16.mp4`
+* `the_big_green_thing_21july2026_p0.jpg` through `p7.jpg`
+* `the_big_green_thing_21july2026_p8.mp4` and `p9.mp4`
+* `the_big_green_thing_22july2026_p0.jpg`, `p1.mp4`, and `p2.mp4`
+* `the_big_green_thing_23july2026_p0.mp4` through `p2.mp4`
+* `the_big_green_thing_23july2026_p3.jpg` through `p8.jpg`
+* `karbytes_gratitude_message_21july2026_p0.mp4`
+* `karbytes_orb_web_spider_note_22july2026_p0.mp4`
+* `morning_burrow_view_22july2026.jpg`
+* All three `evening_burrow_view_23july2026` photographs
+
+The other working hyperlinks—including the journal page, The Big Green Thing page, macro directory, About karbytes, PUBLIC_DOMAIN, Wikipedia references, OpenAI FAQ, and the page’s self-link—also lead to their expected destinations.
+
+One additional presentational defect exists: the five `image_link:` URLs at the beginning visibly omit `/main/`. Their clickable hyperlink targets correctly include `/main/` and work, but copying the displayed URL itself produces a 404.
+
+karbytes:
+
+This is good news. The broken links you identified are either pointing to files which are still being drafted in the @informationcrystals projects GitHub repository or are files which have been removed due to the fact that they were determined to be accidental duplicates. I'll remove the hyperlinks to those non-existent duplicate files.
+
+ChatGPT:
+
+That explains the pattern. The links were not misdirected; their targets were simply unpublished drafts or intentionally removed duplicates.
+
+Removing hyperlinks to the deleted duplicates is appropriate. For files still being drafted in `@informationcrystals/projects`, the references can remain as plain text until their permanent public destinations exist, then be hyperlinked later. This preserves the transcript wording without leaving misleading links.
