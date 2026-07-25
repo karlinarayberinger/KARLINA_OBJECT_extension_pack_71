@@ -1,0 +1,17 @@
+/**
+ * file: journal_karbytes_21july2026_p0.txt
+ * type: plain-text
+ * date: 21_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/temp.txt
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_21july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_21july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_21july2026_p0.mp4
