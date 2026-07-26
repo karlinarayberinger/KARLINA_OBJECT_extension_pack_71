@@ -1,18 +1,18 @@
 /**
  * file: journal_karbytes_21july2026_p1.txt
  * type: plain-text
- * date: 22_JULY_2026
+ * date: 26_JULY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-// BEST_OBS_STUDIO_RECORDING_VIDEOS_IN_KARBYTES_21JULY2026
+// BEST_OBS_STUDIO_RECORDING_VIDEOS_IN_KARBYTES_26JULY2026
 
 The following list of KARBYTES videos is a sequel to the list depicted by the web page at the following Uniform Resource Locator:
 
 https://karbytesforlifeblog.wordpress.com/journal_karbytes_06july2026/
 
-(Bonus Song ("The Vessel's Anthem"): https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/guitar_karbytes_18july2026_p0.mp4)
+(Bonus Song (“The Vessel’s Anthem”): https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/guitar_karbytes_18july2026_p0.mp4)
 
 * * *
 
@@ -39,3 +39,5 @@ KARBYTES_video_file_9: https://raw.githubusercontent.com/karlinarayberinger/KARL
 KARBYTES_video_file_10: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/obs_studio_recording_22june2026_p0.mp4
 
 KARBYTES_video_file_11: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_21july2026_p0.mp4
+
+KARBYTES_video_file_12: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_26july2026_p0.mp4
