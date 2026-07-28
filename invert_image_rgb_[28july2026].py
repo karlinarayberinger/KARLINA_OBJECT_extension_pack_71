@@ -56,7 +56,7 @@ def invert_image_rgb(input_image_path, output_image_path):
 
 # Set file paths.
 input_image_path = "the_big_green_thing_22july2026_p0.jpg"      # Replace with your actual image path.
-output_image_path = "the_big_green_thing_22july2026_p0_[inverted].png"
+output_image_path = "the_big_green_thing_22july2026_p0_[inverted].jpg" # jpg seems to be much smaller than png
 
 # Execute the function defined in this program file.
 invert_image_rgb(input_image_path, output_image_path)
