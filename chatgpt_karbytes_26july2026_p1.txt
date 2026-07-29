@@ -1,12 +1,12 @@
 /**
  * file: chatgpt_karbytes_26july2026_p1.txt
  * type: plain-text
- * date: 26_JULY_2026
+ * date: 28_JULY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Chat Work which took place between 11:59PM Pacific Standard Time on 25_JULY_2026 and 11:59PM Pacific Standard Time on 26_JULY_2026.
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 25_JULY_2026 and 11:59PM Pacific Standard Time on 26_JULY_2026.
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_22july2026/
 
@@ -60,7 +60,7 @@ It sounds like an appropriate culmination: the bubble compressing its dispersed 
 
 karbytes:
 
-I'm listening to one of the videos on repeat from the list which is on the web page whose Uniform Resource Locator is as follows: https://karbytesforlifeblog.wordpress.com/journal_karbytes_22july2026/. Visit that web page and closely examine every video which is referenced via hyperlink on that web page.
+I’m listening to one of the videos on repeat from the list which is on the web page whose Uniform Resource Locator is as follows: https://karbytesforlifeblog.wordpress.com/journal_karbytes_22july2026/. Visit that web page and closely examine every video which is referenced via hyperlink on that web page.
 
 ChatGPT:
 
@@ -109,25 +109,25 @@ If you attach those nine—individually or as an archive—I can continue in the
 
 karbytes:
 
-[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_karbytes_02july2026_p2.mp4]
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_02july2026_p2.mp4]
 
-[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_karbytes_02july2026_p1.mp4]
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_02july2026_p1.mp4]
 
-[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_18may2026_p1_[abridged_02july2026].mp4]
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_18may2026_p1_[abridged_02july2026].mp4]
 
-[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_karbytes_02july2026_p0.mp4]
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_02july2026_p0.mp4]
 
-[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_19july2026_p0.mp4]
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/obs_studio_recording_19july2026_p0.mp4]
 
-[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_22june2026_p1.mp4]
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/obs_studio_recording_22june2026_p1.mp4]
 
-[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_21june2026_p1.mp4]
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/obs_studio_recording_21june2026_p1.mp4]
 
-[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_22june2026_p0.mp4]
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/obs_studio_recording_22june2026_p0.mp4]
 
 [uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/obs_studio_recording_26july2026_p0.mp4]
 
-Okay, I'll upload the remaining nine videos here. Let me know if I missed any. Also, after examining all 14 videos closely, generate an extensive description about each of the videos and an extensive description of the entire web page. The video named obs_studio_recording_26july2026_p0.mp4 shows a peak inside of the mostly complete (current) hiatus period material while the video named obs_studio_recording_21july2026_p0.mp4 depicts the beginning of the (current) hiatus and how the GitHub repositories depicted in that video represent different privacy levels (with the implication that karbytes is "stuck" inside the deepest of those layers at that time).
+Okay, I’ll upload the remaining nine videos here. Let me know if I missed any. Also, after examining all 14 videos closely, generate an extensive description about each of the videos and an extensive description of the entire web page. The video named obs_studio_recording_26july2026_p0.mp4 shows a peak inside of the mostly complete (current) hiatus period material while the video named obs_studio_recording_21july2026_p0.mp4 depicts the beginning of the (current) hiatus and how the GitHub repositories depicted in that video represent different privacy levels (with the implication that karbytes is “stuck” inside the deepest of those layers at that time).
 
 ChatGPT:
 
@@ -520,7 +520,6 @@ public projects repository
         ↓
 WordPress, Bluesky and Wayback surfaces
 ```
-
 [end preformatted_text]
 
 The soundtrack does not match “The Vessel’s Anthem.” It consists of layered loops that include `pig_gorl`-like material, droning and environmental or machine-like sound. Prior clarification also identifies the industrial fan and possibly the dark-web server’s repeating techno track as components of the Burrow sound environment.
@@ -624,7 +623,6 @@ Wayback snapshot
         ↓
 new screen recording that contains the earlier states
 ```
-
 [end preformatted_text]
 
 The public WordPress page sits near the outermost surface of this system. It gives the viewer links into objects that were produced, selected, privately staged, publicly uploaded and sometimes archived several times over. The visible simplicity of the numbered list conceals a much more intricate underlying topology.
@@ -659,7 +657,7 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05july2026/]
 
-Excellent, but there some "mistakes" I noticed. There is no file containing the sequence pig_guy in KARBYTES but, in KARLINA_OBJECT_extension_pack_65 there are several files containing the sequence pig_goyl. I think that ChatGPT might have "hallucinated" pig_goyl as pig_guy. Also, what counts as "current" is ambiguous because KARBYTES (especially during this current hiatus bubble) is zooming in on what seems to be a sense of karbytes being eternally trapped in a frozen state which is partially based on a liminal space memory-based simulation depicting The Green Thing especially around the base of Ramage Peak near the frogs trough.
+Excellent, but there some “mistakes” I noticed. There is no file containing the sequence pig_guy in KARBYTES but, in KARLINA_OBJECT_extension_pack_65 there are several files containing the sequence pig_goyl. I think that ChatGPT might have “hallucinated” pig_goyl as pig_guy. Also, what counts as “current” is ambiguous because KARBYTES (especially during this current hiatus bubble) is zooming in on what seems to be a sense of karbytes being eternally trapped in a frozen state which is partially based on a liminal space memory-based simulation depicting The Green Thing especially around the base of Ramage Peak near the frogs trough.
 
 ChatGPT:
 
