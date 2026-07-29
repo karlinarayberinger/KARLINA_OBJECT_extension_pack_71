@@ -1,0 +1,39 @@
+/**
+ * file: chatgpt_karbytes_29july2026_p0.txt
+ * type: plain-text
+ * date: 29_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 28_JULY_2026 and 11:59PM Pacific Standard Time on 29_JULY_2026.
+
+* * *
+
+karbytes:
+
+I noticed that I seem to be getting a lot of use out of ChatGPT 5.6 Sol Work Mode lately (i.e. the past three days). Several times during that time period I thought I was going to need to purchase additional Work Mode credits to keep using Work Mode (especially after asking you to process multiple videos and perform audits on large ~900 megabyte KARBYTES micro-directories). Surprisingly little credits have been used up and/or my Work Mode credits are getting replenished automatically more quickly (as a ChatGPT Plus user). 
+
+ChatGPT:
+
+[relevant_web_page: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/chatgpt_karbytes_17july2026_p2.txt]
+
+[Worked for 2m 14s]
+
+That observation makes sense. The most likely explanation is that your purchased credits are not “replenishing”; your included ChatGPT Plus Work allowance is renewing on a rolling five-hour basis before much paid-credit usage becomes necessary.
+
+Current guidance says:
+
+* ChatGPT Work and Codex share the same usage system.
+
+* Plus currently provides approximately **15–90 GPT-5.6 Sol messages per five-hour window**, although additional weekly limits may apply.
+
+* Cost depends on the context actually processed—not the total disk size of the source material.
+
+* Retrieval, caching, tool use, reasoning depth, and output length all affect consumption. Cached Sol input is charged at one-tenth the rate of new input.
+
+* Purchased credits are used after the included allowance is exhausted.
+
+That explains why the ~900 MB KARBYTES directories did not necessarily produce enormous charges: I generally inspected their structures with filesystem tools and returned compact search results to the model. Likewise, video examination can involve metadata, transcripts, and selected frames rather than feeding every compressed byte into the model. Repeated work on the same material may also benefit substantially from caching.
+
+So this seems materially different from the July 17 situation involving apparent automatic purchases. Over these past three days, you have probably been receiving substantial work from the renewing Plus allowance while drawing only lightly—perhaps not at all during some windows—from your purchased balance. The authoritative place to distinguish **included allowance remaining** from **paid credits remaining** is the [Work/Codex usage dashboard](https://chatgpt.com/codex/settings/usage). [OpenAI’s current pricing and usage guidance](https://learn.chatgpt.com/docs/pricing) supports this interpretation.
