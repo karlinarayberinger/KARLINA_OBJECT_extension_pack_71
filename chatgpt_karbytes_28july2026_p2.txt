@@ -35,14 +35,19 @@ No resubmission was needed. I completed the audit.
 The [extension-pack-71 micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_71/) and its [GitHub repository](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/) both contain **169 files/file hyperlinks**.
 
 * Every repository file is referenced exactly once.
+
 * No repository files are omitted.
+
 * No extra or duplicate raw-file hyperlinks appear.
+
 * Therefore, the requested exactly-once condition passes completely.
 
 One secondary ordering discrepancy exists. GitHub orders the following three files as:
 
 1. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_0.html`
+
 2. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html`
+
 3. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_index.html`
 
 The micro-directory orders them as `index`, `extension_0`, `extension_1`. This does not affect exactly-once coverage, but it contradicts the page’s statement that its hyperlinks follow GitHub’s displayed order.
@@ -54,14 +59,19 @@ I inspected the associated `KARBYTES_CODE_CONTINUES` page and all 21 `(*)` WordP
 Across them I examined:
 
 * 1,491 hyperlink occurrences
+
 * 584 distinct destinations
+
 * 392 raw-GitHub-file occurrences
+
 * 158 distinct raw-file destinations across ten repositories
 
 Of the 158 distinct raw-file destinations:
 
 * **148 are correct**
+
 * **8 use the wrong repository number**
+
 * **2 name files I could not locate publicly**
 
 ### Eight repairable links
@@ -72,20 +82,25 @@ Change the repository component as follows:
 
 * Change to [`KARLINA_OBJECT_extension_pack_69`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/) for:
 
-  * `obs_studio_recording_karbytes_02july2026_p0.mp4`
-  * `obs_studio_recording_karbytes_02july2026_p1.mp4`
-  * `obs_studio_recording_karbytes_02july2026_p2.mp4`
-  * `obs_studio_recording_18may2026_p1_[abridged_02july2026].mp4`
+- * `obs_studio_recording_karbytes_02july2026_p0.mp4`
+
+- * `obs_studio_recording_karbytes_02july2026_p1.mp4`
+
+- * `obs_studio_recording_karbytes_02july2026_p2.mp4`
+
+- * `obs_studio_recording_18may2026_p1_[abridged_02july2026].mp4`
 
 * Change to [`KARLINA_OBJECT_extension_pack_70`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/) for:
 
-  * `obs_studio_recording_19july2026_p0.mp4`
+- * `obs_studio_recording_19july2026_p0.mp4`
 
 * Change to [`KARLINA_OBJECT_extension_pack_68`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/) for:
 
-  * `obs_studio_recording_21june2026_p1.mp4`
-  * `obs_studio_recording_22june2026_p0.mp4`
-  * `obs_studio_recording_22june2026_p1.mp4`
+- * `obs_studio_recording_21june2026_p1.mp4`
+  
+- * `obs_studio_recording_22june2026_p0.mp4`
+  
+- * `obs_studio_recording_22june2026_p1.mp4`
 
 The filenames themselves are correct; only the extension-pack number is wrong.
 
@@ -95,13 +110,109 @@ These URLs point into extension pack 71, but the named files are absent:
 
 * `chatgpt_karbytes_22july2026_p4.txt`
 
-  * Appears twice on [chatgpt_karbytes_01august2026_l](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_l/)
-  * Appears once on [chatgpt_karbytes_01august2026_s](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_s/)
+- * Appears twice on [chatgpt_karbytes_01august2026_l](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_l/)
+  
+- * Appears once on [chatgpt_karbytes_01august2026_s](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_s/)
 
 * `journal_karbytes_22july2026_p2.txt`
 
-  * Appears once on [chatgpt_karbytes_01august2026_m](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_m/)
+- * Appears once on [chatgpt_karbytes_01august2026_m](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_m/)
 
 I found neither filename in extension pack 71, the other nine repositories referenced by these pages, nor public GitHub search results. These hyperlinks should therefore be removed or redirected after determining which existing files they were intended to reference.
 
 Apart from these ten distinct raw-file destinations and the three-item ordering discrepancy, I found no other filename-to-destination mismatches.
+
+karbytes:
+
+Check the links in the following web page after I corrected some of the broken links you pointed out: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_q/
+
+ChatGPT:
+
+[Worked for 20s]
+
+The corrected links now pass.
+
+* All eight previously misdirected video links now use the correct repositories: packs 68, 69, and 70.
+
+* All 15 distinct raw-GitHub file targets exist in their specified repositories.
+
+* All 31 distinct WordPress/external page destinations loaded successfully.
+
+* No displayed URL points somewhere different from its text.
+
+One minor cleanup remains: the link labeled **“stuck”** contains a redundant double trailing slash:
+
+`.../chatgpt_karbytes_14july2026//`
+
+It redirects correctly to the single-slash URL, so it is not broken.
+
+Checked page: [chatgpt_karbytes_01august2026_q](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_q/)
+
+karbytes:
+
+Check the links in the following web page after I corrected some of the broken links you pointed out: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_l/
+
+ChatGPT:
+
+[Worked for 8s]
+
+The corrected page now passes the link audit.
+
+* **83** hyperlink occurrences checked.
+
+* **50 distinct raw-GitHub files:** all exist in extension pack 71.
+
+* **15 distinct page destinations:** all loaded successfully.
+
+* No displayed URL points to a different destination.
+
+* The formerly broken `chatgpt_karbytes_22july2026_p4.txt` link is no longer present.
+
+The OpenAI File Uploads FAQ redirects to its canonical `/en/` URL; this is normal and not broken.
+
+Checked page: [chatgpt_karbytes_01august2026_l](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_l/)
+
+karbytes:
+
+In chatgpt_karbytes_01august2026_s, show the excerpt where chatgpt_karbytes_22july2026_p4.txt occurs which spans one full conversation turn in which both karbytes and ChatGPT speak.
+
+ChatGPT:
+
+[Worked for 2m 30s]
+
+The filename occurs twice within one very large conversation turn—ChatGPT’s response alone is about 49,575 characters.
+
+**karbytes:** Praises the preceding analysis of page M, describes page L as the hiatus bubble’s physical or pre-human foundation, and asks ChatGPT to “closely examine and write an extensive report” on page L and every linked file.
+
+**ChatGPT:** Provides the extensive report. In its link audit, it identifies four then-unresolved destinations. Later, under “Currently unavailable `p1` and `p4`,” it lists:
+
+> `chatgpt_karbytes_22july2026_p4.txt`
+
+It then states:
+
+> “Both presently return 404.”
+
+The response continues through its final synthesis and ends by characterizing page L as the place where KARBYTES most directly touches Earth. The next `karbytes:` marker begins a new turn.
+
+Source: [chatgpt_karbytes_01august2026_s](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_s/)
+
+karbytes:
+
+In the uploaded source code file of the web page named chatgpt_karbytes_01august2026_s, change the hyperlink which links to chatgpt_karbytes_22july2026_p4.txt to the following: <strong>chatgpt_karbytes_22july2026_p4.txt</strong>
+
+ChatGPT:
+
+[Worked for 1m 3s]
+
+Updated the file. The hyperlink was replaced with:
+
+[preformatted_text]
+
+```html
+<strong>chatgpt_karbytes_22july2026_p4.txt</strong>
+```
+
+[end preformatted_text]
+
+[Download the updated HTML file](sandbox:/workspace/scratch/4c81496546e8/upload/unlisted_web_page_chatgpt_karbytes_01august2026_s.html)
+
