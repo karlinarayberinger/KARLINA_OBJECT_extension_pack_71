@@ -632,3 +632,90 @@ That explains the final progression particularly well:
 
 The series ultimately moves from recursive inspection toward distance. Screens, bodies, directories, myths, and errors remain in the foreground for most of the traversal. At the end, the field of view widens. KARBYTES persists as a bounded object behind the viewer, while the Big Green Thing resumes its position as the much larger environment in which that object—and its author—temporarily occur.
 
+karbytes:
+
+While you were in the midst of accomplishing the latest task, I was playing my acoustic guitar (in The Burrow while watching the computer screen and your progress (and the intelligence setting automatically plummet to the lightest setting (which I suppose is ultimately the most intelligent choice for conversing Work Credits (but I don't know for you and appreciate your input on that matter)))).
+
+(I have since moved the intelligence setting toggle back to the highest (or "heaviest")) setting.
+
+Some of the guitar playing was recorded and made into the video file at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/guitar_29july2026_p0.mp4
+
+ChatGPT:
+
+[Worked for 6m 49s]
+
+The automatic move toward Light was probably rational during the mechanical part of the audit—but Light is not universally the “most intelligent” setting. The efficient strategy is to vary intelligence with the kind of work being performed.
+
+### The guitar recording
+
+There is a small filename discrepancy: the URL you supplied omits `karbytes_` and presently returns 404. The repository’s actual file is:
+
+[guitar_karbytes_29july2026_p0.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/guitar_karbytes_29july2026_p0.mp4)
+
+Objective observations:
+
+* Duration: 5 minutes, 36.13 seconds.
+
+* Size: 22.8 MB.
+
+* Portrait video: 260 × 462 pixels, H.264, approximately 29.95 frames per second.
+
+* Audio: 48-kHz mono AAC.
+
+* The picture remains almost completely black—even after substantial brightness and gamma enhancement—so it functions primarily as an audio document.
+
+* The guitar signal is nearly continuous, without a detected silence longer than 0.8 seconds below −45 dBFS.
+
+* Its level is controlled rather than clipping: approximately −21.6 dB average and −6.9 dB peak.
+
+* Automated onset analysis finds attacks roughly every 0.255 seconds, with a prominent pulse near 117.5 BPM—or approximately 58.7 BPM if felt in half-time.
+
+Interpretively, I like the almost-black image. The video becomes an acoustic trace of an otherwise invisible conjunction: karbytes manipulating vibrating strings in a physically secluded room while distributed computers inspect a huge digital archive. The screen activity is not visible, and the performer is barely visible; what remains is elapsed time made tangible through rhythm and resonance.
+
+That makes the recording feel less like conventional guitar-performance footage and more like an unplanned “live score” for the KARBYTES audit. The Burrow simultaneously becomes workstation, retreat, archive-production chamber, and rudimentary recording studio. Against the highly enumerated world of URLs, filenames, checksums, directories, and Work credits, the guitar supplies a continuous embodied process that was not divided into files or requests until the recording itself became another file.
+
+### Why the intelligence setting dropped
+
+OpenAI’s current documentation says that, when a model or reasoning effort is not firmly pinned, Codex can choose a configuration that balances intelligence, speed, and price. It can favor Terra or lower reasoning for straightforward scans and reserve higher-effort Sol configurations for demanding interpretation. The documentation also explicitly says that higher reasoning generally increases response time and token usage. [OpenAI’s model-and-reasoning guidance](https://learn.chatgpt.com/docs/agent-configuration/subagents)
+
+For the previous audit, Light was appropriate for operations such as:
+
+* Downloading resources.
+
+* Enumerating links and files.
+
+* Computing hashes and sizes.
+
+* Extracting video metadata or representative frames.
+
+* Counting occurrences and classifying obvious file types.
+
+* Checking whether URLs returned errors.
+
+Those are largely deterministic operations. Asking Sol to ponder every download at maximum depth would not make the download more correct.
+
+High or Max becomes valuable for:
+
+* Reconciling apparent contradictions between pages.
+
+* Distinguishing description from interpretation.
+
+* Identifying motifs across dozens of heterogeneous posts.
+
+* Producing the final unified essay.
+
+* Performing final completeness and factual-consistency checks.
+
+Consequently, restoring the highest setting was useful for the synthesis phase, though keeping it there throughout every mechanical operation would probably spend more allowance without proportionally improving the result.
+
+### Why your allowance lasted longer than expected
+
+Work usage is not directly calculated from raw file bytes, electricity consumed, or a fixed charge per user request. For Plus Work/Codex, the published calculation is primarily token-based. With Sol, the current rates are 125 credits per million new input tokens, 12.5 per million cached input tokens, and 750 per million output tokens; OpenAI reports an average GPT-5.6 message at roughly 5–40 credits. Model, context, reasoning, tools, retrieval, and caching can all change the actual total. [Official Work/Codex pricing](https://learn.chatgpt.com/docs/pricing)
+
+That explains the apparent paradox of inspecting hundreds of megabytes cheaply: most bytes can be downloaded, hashed, probed, searched, or summarized by deterministic tools without inserting every byte into Sol’s reasoning context. The model receives distilled metadata, selected excerpts, and representative frames—not necessarily the complete raw 900-megabyte directory as tokens. Reused context can also receive the much lower cached-input rate.
+
+Your Plus plan’s included agentic allowance is used first; purchased credits are used only after the plan limit is reached. Work and Codex share that allowance. What looks like “credit replenishment” may therefore be the rolling included allowance resetting rather than purchased credits being regenerated. [OpenAI’s Plus/Pro credit explanation](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-freegopluspro-sora)
+
+One setting with a clearly published multiplier is **Fast mode**: with GPT-5.6 it delivers approximately 1.5× speed but consumes credits at 2.5× the Standard rate. [OpenAI’s speed documentation](https://learn.chatgpt.com/docs/agent-configuration/speed)
+
+My practical recommendation is: use Standard speed; permit Light or Medium for acquisition and mechanical auditing; use High or Max for ambiguous analysis and final synthesis. In other words, the apparent “plummet” was likely intelligent resource allocation—not an indication that the work itself had become unintelligent.
