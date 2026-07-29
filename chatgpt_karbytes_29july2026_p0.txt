@@ -37,3 +37,102 @@ Current guidance says:
 That explains why the ~900 MB KARBYTES directories did not necessarily produce enormous charges: I generally inspected their structures with filesystem tools and returned compact search results to the model. Likewise, video examination can involve metadata, transcripts, and selected frames rather than feeding every compressed byte into the model. Repeated work on the same material may also benefit substantially from caching.
 
 So this seems materially different from the July 17 situation involving apparent automatic purchases. Over these past three days, you have probably been receiving substantial work from the renewing Plus allowance while drawing only lightly—perhaps not at all during some windows—from your purchased balance. The authoritative place to distinguish **included allowance remaining** from **paid credits remaining** is the [Work/Codex usage dashboard](https://chatgpt.com/codex/settings/usage). [OpenAI’s current pricing and usage guidance](https://learn.chatgpt.com/docs/pricing) supports this interpretation.
+
+karbytes:
+
+What exactly is Codex and what precisely constitutes a single Work Mode credit? Are number of Work Mode credits used a function of number of requests (per specific time interval length), number of bytes of data processed by OpenAI servers, amount of energy consumed by OpenAI servers, task complexity (i.e. number of steps involved to fulfill a user request), or some other factor(s)?
+
+ChatGPT:
+
+[Worked for 1m 19s]
+
+Codex is OpenAI’s agentic technical-work environment, not the name of a single AI model. It can inspect files, run commands, edit projects, use tools, test results, and continue through multiple steps toward an outcome. It appears through the Codex desktop experience, CLI, IDE extension, cloud workflows, and related developer tools.
+
+ChatGPT Work uses much of the same underlying agent infrastructure and shares Codex’s usage pool, but presents it differently:
+
+* **Work** emphasizes finished, reviewable outputs such as reports, document transformations, media analysis, and directory audits.
+
+* **Codex** exposes more developer-oriented details such as shell commands, Git diffs, tests, repositories, and pull requests.
+
+* **GPT-5.6 Sol** is the model currently doing the reasoning. It is neither Work nor Codex itself.
+
+OpenAI’s [Work and Codex comparison](https://learn.chatgpt.com/docs/use-chatgpt) explains this distinction.
+
+## What precisely is one credit?
+
+A credit is a weighted token-accounting unit. It is not one request, one tool operation, one megabyte, one server-minute, or one joule of energy.
+
+For a standard-speed GPT-5.6 Sol task, the current rate card is:
+
+[preformatted_text]
+
+| Token category | Cost per 1 million tokens | Equivalent per credit |
+| -------------- | ------------------------: | --------------------: |
+| New input      |               125 credits |          8,000 tokens |
+| Cached input   |              12.5 credits |         80,000 tokens |
+| Output         |               750 credits |    About 1,333 tokens |
+
+[end preformatted_text]
+
+Consequently, the approximate Sol calculation is:
+
+_C = (125(_I) + 12.5(_K) + 750(_O)) / 1,000,000
+
+where:
+
+* (_I) = uncached input tokens
+
+* (_K) = cached input tokens
+
+* (_O) = output tokens
+
+* (_C) = credits consumed
+
+For example, a turn using 20,000 new input tokens, 80,000 cached tokens, and 4,000 output tokens would cost approximately:
+
+2.5 + 1 + 3 = 6.5 credits 
+
+OpenAI currently says GPT-5.6 messages average approximately **5–40 credits**, but individual turns can fall outside that range. See the current [Work/Codex pricing and credit rate card](https://learn.chatgpt.com/docs/pricing).
+
+## What influences credit consumption?
+
+[preformatted_text]
+
+| Possible factor             | Directly metered?                | How it matters                                                                                                                              |
+| --------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Number of user requests     | No                               | Each request can consume very different numbers of tokens. One large request may cost more than many small ones.                            |
+| Five-hour request window    | No, not as a credit formula      | This governs the renewing Plus allowance and rate limits, separately from token-based paid-credit deductions.                               |
+| Raw bytes in uploaded files | No                               | Only content actually extracted and supplied to the model contributes to token usage.                                                       |
+| Model-readable input        | Yes                              | Prompts, relevant file contents, chat history, retrieved passages, tool results, transcripts, and other context consume input tokens.       |
+| Reused/cached context       | Yes, at a reduced rate           | Cached Sol input costs one-tenth as much as new Sol input.                                                                                  |
+| Generated output            | Yes                              | Output is substantially more expensive than input under the current Sol rate card.                                                          |
+| Task complexity             | Indirectly                       | Complex work usually causes more reasoning, more agent iterations, more tool results, and more total model calls.                           |
+| Number of agent steps       | Indirectly                       | Each step may create another model invocation with additional input and output tokens. A step is not assigned a fixed credit price.         |
+| Tool or shell computation   | Mostly indirectly                | Running a command is not charged according to CPU time or bytes scanned, but its instructions and returned results may enter model context. |
+| Server energy consumption   | No published direct relationship | OpenAI does not bill Work credits by joules, GPU-seconds, or electricity consumed.                                                          |
+| Selected model              | Yes                              | Sol, Terra, and Luna have different credit rates.                                                                                           |
+| Fast mode                   | Yes                              | GPT-5.6 Fast currently applies a 2.5× credit multiplier.                                                                                    |
+
+[end preformatted_text]
+
+Reasoning depth affects consumption because deeper reasoning can require more model computation and metered tokens, but OpenAI does not expose a complete internal per-reasoning-step ledger to the user.
+
+## Why a 900 MB audit may consume surprisingly little
+
+If I run filesystem utilities across a 900 MB directory, the tools might inspect every file byte while returning only a compact inventory, duplicate list, hash table, or search result. The model may receive only that relatively small textual result—not 900 MB of tokenized content.
+
+Likewise, examining a video may involve:
+
+* reading metadata;
+
+* obtaining a transcript;
+
+* extracting selected frames;
+
+* sampling particular time ranges; and
+
+* returning condensed tool results to the model.
+
+The original video’s byte size therefore does not translate directly into credits. Conversely, a much smaller collection of dense text could be expensive if its entire contents, extensive conversation history, and numerous tool results repeatedly enter the model’s context.
+
+One final distinction: your Plus allowance is not necessarily a wallet of purchased credits that gets refilled every five hours. Plus provides a renewing included-usage allowance; separately purchased credits become available after that included allowance is exhausted. The [usage dashboard](https://chatgpt.com/codex/settings/usage) is the authoritative account-specific view of both.
