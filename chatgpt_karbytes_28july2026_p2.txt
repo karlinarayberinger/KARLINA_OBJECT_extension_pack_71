@@ -1,0 +1,107 @@
+/**
+ * file: chatgpt_karbytes_28july2026_p2.txt
+ * type: plain-text
+ * date: 28_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 27_JULY_2026 and 11:59PM Pacific Standard Time on 28_JULY_2026.
+
+* * *
+
+karbytes:
+
+Navigate to the home page of Karbytes For Life Blog dot WordPress dot Com. Then open the RAW_GITHUB_FILES_MACRO_DIRECTORY hyperlink. Then open the raw_github_files_directory_KARLINA_OBJECT_extension_pack_71 hyperlink. Then open the Github repository link associated with the respective micro-directory to verify whether or not that every file which appears in that GitHub repository is explicitly referenced by exactly one hyperlink on that micro-directory web page. 
+
+Then, for each web hyperlink on that micro-directory web page which leads to a WordPress dot Com web page, verify that every hyperlink inside the respective web page leads to the correct file.
+
+ChatGPT:
+
+That approval request is no longer active. Please retry the action if you still want Codex to continue with it.
+
+karbytes:
+
+Do I have to re-submit the entire prompt? (Sorry I was "away from keyboard" for so long. I was in the shower and kind of lost in daydreaming and marveling at the wonder of existence). 
+
+ChatGPT:
+
+[Worked for 59s]
+
+No resubmission was needed. I completed the audit.
+
+## Repository-to-micro-directory audit
+
+The [extension-pack-71 micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_71/) and its [GitHub repository](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/) both contain **169 files/file hyperlinks**.
+
+* Every repository file is referenced exactly once.
+* No repository files are omitted.
+* No extra or duplicate raw-file hyperlinks appear.
+* Therefore, the requested exactly-once condition passes completely.
+
+One secondary ordering discrepancy exists. GitHub orders the following three files as:
+
+1. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_0.html`
+2. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html`
+3. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_index.html`
+
+The micro-directory orders them as `index`, `extension_0`, `extension_1`. This does not affect exactly-once coverage, but it contradicts the page’s statement that its hyperlinks follow GitHub’s displayed order.
+
+## Linked WordPress-page audit
+
+I inspected the associated `KARBYTES_CODE_CONTINUES` page and all 21 `(*)` WordPress pages—22 pages total. All 22 pages loaded successfully and correspond to their intended extension-pack-71 HTML files.
+
+Across them I examined:
+
+* 1,491 hyperlink occurrences
+* 584 distinct destinations
+* 392 raw-GitHub-file occurrences
+* 158 distinct raw-file destinations across ten repositories
+
+Of the 158 distinct raw-file destinations:
+
+* **148 are correct**
+* **8 use the wrong repository number**
+* **2 name files I could not locate publicly**
+
+### Eight repairable links
+
+All eight occur on [chatgpt_karbytes_01august2026_q](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_q/) and currently incorrectly specify `KARLINA_OBJECT_extension_pack_71`.
+
+Change the repository component as follows:
+
+* Change to [`KARLINA_OBJECT_extension_pack_69`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/) for:
+
+  * `obs_studio_recording_karbytes_02july2026_p0.mp4`
+  * `obs_studio_recording_karbytes_02july2026_p1.mp4`
+  * `obs_studio_recording_karbytes_02july2026_p2.mp4`
+  * `obs_studio_recording_18may2026_p1_[abridged_02july2026].mp4`
+
+* Change to [`KARLINA_OBJECT_extension_pack_70`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/) for:
+
+  * `obs_studio_recording_19july2026_p0.mp4`
+
+* Change to [`KARLINA_OBJECT_extension_pack_68`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/) for:
+
+  * `obs_studio_recording_21june2026_p1.mp4`
+  * `obs_studio_recording_22june2026_p0.mp4`
+  * `obs_studio_recording_22june2026_p1.mp4`
+
+The filenames themselves are correct; only the extension-pack number is wrong.
+
+### Two unresolved filenames
+
+These URLs point into extension pack 71, but the named files are absent:
+
+* `chatgpt_karbytes_22july2026_p4.txt`
+
+  * Appears twice on [chatgpt_karbytes_01august2026_l](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_l/)
+  * Appears once on [chatgpt_karbytes_01august2026_s](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_s/)
+
+* `journal_karbytes_22july2026_p2.txt`
+
+  * Appears once on [chatgpt_karbytes_01august2026_m](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_m/)
+
+I found neither filename in extension pack 71, the other nine repositories referenced by these pages, nor public GitHub search results. These hyperlinks should therefore be removed or redirected after determining which existing files they were intended to reference.
+
+Apart from these ten distinct raw-file destinations and the three-item ordering discrepancy, I found no other filename-to-destination mismatches.
